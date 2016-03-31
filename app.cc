@@ -1,3 +1,7 @@
+//!
+//! @author  Mahesh H D
+//! @date    2015
+
 #include <iostream>
 #include <vector>
 #include <queue>
